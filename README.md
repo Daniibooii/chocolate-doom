@@ -3,9 +3,10 @@
 # Project Description
 This is a clone of a public repo available at: https://github.com/chocolate-doom/chocolate-doom<br>
 I have pushed my own repo so that I can work on edits for fun and to gain a better understanding of videogame mechanics.<br>
-I also hope to edit my friend Anton's head onto most/all of the enemies.<br>
+I also hope to edit my friend Anton's head onto most/all of the enemies :)<br>
 Any changes to the source code will be noted.<br>
-The original repo's README is found below the second Chocolate Doom heading.
+
+The original repo's README is found below the second Chocolate Doom heading.<br>
 
 # Notes
 <br>
@@ -13,7 +14,7 @@ The original repo's README is found below the second Chocolate Doom heading.
 # Remaining Work
 <br>
 
-# Chocolate Doom
+## Chocolate Doom
 
 Chocolate Doom aims to accurately reproduce the original DOS version of
 Doom and other games based on the Doom engine in a form that can be
