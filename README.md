@@ -2,7 +2,7 @@
 
 # Project Description
 This is a clone of a public repo available at: https://github.com/chocolate-doom/chocolate-doom<br>
-I have pushed my own repo so that I can work on edits for fun and to gain a better understanding of videogame mechanics.<br>
+I have created my own repo so that I can work on edits for fun and to gain a better understanding of videogame mechanics.<br>
 I also hope to edit my friend Anton's head onto most/all of the enemies :)<br>
 Any changes to the source code will be noted.<br>
 
